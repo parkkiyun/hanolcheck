@@ -1,0 +1,5 @@
+{
+  "name": "출결 서류 자동 생성기",
+  "description": "엑셀 출결 현황 데이터를 바탕으로 질병, 출석인정, 기타 결석 신고서를 자동으로 생성합니다.",
+  "requestFramePermissions": []
+}
